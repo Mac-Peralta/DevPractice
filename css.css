@@ -1,4 +1,12 @@
-.h {
+#h {
     font-family: Arial;
     color: aqua;
+}
+.first {
+    padding-left: 900px;
+    padding-top: 400px;
+}
+#b1 {
+    font-family: Arial;
+    color: blue;
 }
